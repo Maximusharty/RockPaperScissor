@@ -1,0 +1,124 @@
+
+
+.button{
+    display:flex;
+    padding:30px;
+    
+    font-size:2rem;
+    color:white;
+    box-shadow:0px 0px 2px 2px rgb(0,0,0);
+    border-radius:20px;
+    border:none;
+    
+    
+    
+    
+}
+
+.display{
+    display:flex;
+    justify-content:center;
+    margin-top:150px;
+    gap:50px;
+    
+    color:black;
+    padding:50px;
+   
+}
+
+    
+
+.button1{
+    font-size:30px;
+   
+    
+    background-image:url('images/rock.png');
+    background-size:cover;
+    height:300px;
+    width:300px;
+    box-shadow:0px 0px 2px 2px rgb(0,0,0);
+    border-radius:20px;
+    border:none;
+    display:flex;
+    align-items:flex-end;
+    justify-content:center;
+    font-weight:bold;
+    
+    
+    
+    
+    
+   
+}
+.button2{
+    font-size:30px;
+    font-weight:bold;
+   
+    background-image:url('images/scissor.png');
+    background-size:cover;
+    height:300px;
+    width:300px;
+    box-shadow:0px 0px 2px 2px rgb(0,0,0);
+    border-radius:20px;
+    border:none;
+    display:flex;
+    align-items:flex-end;
+    justify-content:center;
+    
+    
+    
+}
+.button3{
+    font-size:30px;
+    
+    background-image:url('images/paper.png');
+    background-size:cover;
+    height:300px;
+    width:300px;
+    box-shadow:0px 0px 2px 2px rgb(0,0,0);
+    border-radius:20px;
+    border:none;
+    display:flex;
+    
+    align-items:flex-end;
+    justify-content:center;
+    font-weight:bold;
+    color:black;
+    
+
+}
+div{
+    font-size:30px;
+    display:flex;
+    justify-content:center;
+    
+}
+.message{
+    display:block;
+    font-weight:bold;
+    margin:30px;
+}
+p{
+    text-align:center;
+}
+button{
+    font-size:30px;
+    display:flex;
+    background-color:#0a0a23;
+    color: #fff;
+    border:none; 
+    border-radius:10px; 
+    padding:15px;
+    min-height:30px; 
+    min-width: 120px;
+   
+
+    
+
+}
+button:hover{
+    background-color:rgb(22, 229, 105);
+    transition: 0.7s;
+
+}
+
